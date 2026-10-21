@@ -29,8 +29,12 @@ GestureNet is a deep learning-based application designed to recognize American S
 4. Ensure the trained model is available at `model/best_mobilenetv2_asl.keras`.
 5. Run the application using `streamlit run app.py`.
 
-### Screenshots / Demo
-Add screenshots of the running application and its ASL gesture recognition results here.
+
+## Screenshots / Demo
+
+![GestureNet Application Screenshot](screenshots/gesturenet-demo.png)
+
+![GestureNet Application Screenshot](screenshots/gesturenet2-demo.png)
 
 ### Problem Statement
 Communication between ASL users and people unfamiliar with sign language can be challenging. GestureNet aims to explore real-time gesture recognition using computer vision and deep learning to support more accessible communication.
