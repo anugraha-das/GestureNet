@@ -35,11 +35,11 @@ GestureNet is a deep learning-based application designed to recognize American S
 
 ### GestureNet Demo
 
-![GestureNet Demo](screenshots/gesturenet-demo.png)
+
 
 ### GestureNet Demo 2
 
-![GestureNet Demo 2](screenshots/gesturenet2-demo.png)
+
 
 ![GestureNet Application Screenshot](screenshots/gesturenet-demo.png)
 
