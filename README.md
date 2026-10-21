@@ -33,11 +33,11 @@ GestureNet is a deep learning-based application designed to recognize American S
 
 ### GestureNet Demo
 
-![GestureNet Application Screenshot](screenshots/gesturenet-demo.png)
+![GestureNet Application Screenshot](https://raw.githubusercontent.com/anugraha-das/GestureNet/main/screenshots/gesturenet-demo.png)
 
 ### GestureNet Demo 2
 
-![GestureNet Application Screenshot](screenshots/gesturenet2-demo.png)
+![GestureNet Application Screenshot](https://raw.githubusercontent.com/anugraha-das/GestureNet/main/screenshots/gesturenet2-demo.png)
 
 Communication between ASL users and people unfamiliar with sign language can be challenging. GestureNet aims to explore real-time gesture recognition using computer vision and deep learning to support more accessible communication.
 
